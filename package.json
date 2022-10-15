@@ -1,0 +1,22 @@
+{
+  "name": "@butchbet/npm",
+  "version": "1.0.0",
+  "description": "I'm making the how-to-npm workshop in order to learn about npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/text.js"
+  },
+  "author": "ButchBet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ButchBet/npm-workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ButchBet/npm-workshop/issues"
+  },
+  "homepage": "https://github.com/ButchBet/npm-workshop#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
